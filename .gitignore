@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 ~$*.xlsx
+.DS_Store
+production/
